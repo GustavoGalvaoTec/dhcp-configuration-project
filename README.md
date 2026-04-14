@@ -18,3 +18,4 @@ Reserved addresses for Gateways and Static Servers to prevent IP conflicts:
 ip dhcp excluded-address 192.168.10.1 192.168.10.4
 ip dhcp excluded-address 192.168.20.1 192.168.20.4
 
+![Network Topology](./dashboard-DHCPDNS.png)
